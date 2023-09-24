@@ -1,0 +1,3 @@
+/home/dyx/Project1/testmuduo/build/CMakeFiles/muduoserver.dir
+/home/dyx/Project1/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/dyx/Project1/testmuduo/build/CMakeFiles/rebuild_cache.dir
